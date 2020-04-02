@@ -11,13 +11,11 @@ PLAGIARISM IS NOT TOLERATED. From the first commit through all production of doc
 
 ## Example topical ideas from which to choose:
 
+(Making original variations of puzzles and games isn't as difficult as it may seem -- we'll discuss this in class. _Though admittedly, making *good* game variations -- that are well-balanced, strategically interesting, with good replay value_ can take expertise or luck and play-testing with revisions.  I'm not expecting that here, given the short time you have.)
+
 1. Devise your own new _original_ type of logic puzzle or an _original variation_ of existing puzzle type. Your proram should be able to randomly generate many puzzles of your type and to verify that all puzzles generated comply with the standard meta-rule that only one valid solution exists. It needs to output the workable puzzles in a way that a human can print or view them conveniently to try solving them, and support either entering a solution for checking or have the program also display the solution for each puzzle when requested. An interactive UI to also "play" the puzzles after generation is *not* required.
 
-2. OR develop an AI game player for an _original variation_ of some existing strategy game.  If you do this, it needs to be set up so it can either play computer-vs-computer and/or against human players with a reasonable text or graphical UI. 
-
-2b. If two teams want to independently develop AI players for the same type of game variant as each other (but using different algorithms, strategies, and/or data structures) so they can compete, that is okay.
-
-(Making original variations of puzzles and games isn't as difficult as it may seem -- we'll discuss this in class. _Though admittedly, making game variations that are well-balanced, strategically interesting, with good replay value_ can take expertise or luck and play-testing with revisions.  I'm not expecting that here, given the short time you have.)
+2. OR develop an AI game player for an _original variation_ of some existing strategy game.  If you do this, it needs to be set up so it can either play computer-vs-computer and/or against human players with a reasonable text or graphical UI. 2B. If two teams want to independently develop AI players for the same type of game variant as each other (but using different algorithms, strategies, and/or data structures) so they can compete, that is okay.
 
 3. Computationally 'Solve' a game.  _Background: Some strategic games, especially those of perfect information are known to be "solved". See https://en.wikipedia.org/wiki/Solved_game ._  Sometimes these proofs are done through mathematical analysis, other times through computational verification. If you choose this option, you can either write your own code or modify some existing code that plays a game, to exhaustively analyze a game to attempt to prove if it is "solved" in this way for certain configurations. Slight changes to rules or conditions of a known game can alter this outcome and require reanalysis.
 
