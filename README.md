@@ -1,5 +1,5 @@
-# 2020_spring_projects
-Student final projects are public forks from here.
+# IS590PZ 2020 Spring Student Projects
+Student final projects from this semester are all public forks linked from this repository.  This is just one of the assignments students worked on for the course, but this is the only one they are permitted to publish openly.
 
 ## Final Project Expectations:
 
