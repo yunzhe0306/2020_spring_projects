@@ -17,7 +17,7 @@ Players take alternate turns. If one player can not make a valid move, play pass
 
 (3) Some 'Catalysts' exist on the board instead of blanks, and it CAN be regarded as either white chess or black chess. 
 
-## Algorithms chosed:
+## Algorithms chosen:
 
 MCTS (Monte Carlo Tree Search) and Greedy Algorithm if MC tree is unavailable.
 
